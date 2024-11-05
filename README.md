@@ -92,7 +92,7 @@
 <body>
   <div class="box">
     <canvas id="pinkboard"></canvas>
-    <div class="text" id="loveText">I Love You</div>
+    <div class="text" id="loveText"> Chúc Bà Ngủ Ngoan nhéeeeeee</div>
   </div>
 
   <script>
